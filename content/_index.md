@@ -48,14 +48,13 @@ sections:
       title: Research
       items:
         - title: Paper 1
-          company: Summary of paper
-        
+          description: Summary of paper
     design:
       columns: '2'
     
 
 
-  - block: collection
+  - block: markdown
     id: teaching
     content:
       title: Teaching
