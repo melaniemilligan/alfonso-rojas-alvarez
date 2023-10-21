@@ -45,6 +45,8 @@ sections:
 
   - block: markdown
     id: research
+    design: 
+      columns: '2'
     content:
       title: Publications & Working Papers
       text: |2-
@@ -77,9 +79,6 @@ sections:
         ### Effects of Removing the GRE requirement for graduate admissions at the LBJ School, 2013-2023 (Working Paper)
 
         ### US-Mexico Elites Study: a binational survey of political perspectives in bordering countries (Working Paper)
-    
-    # design: 
-    #   columns: '2'
 
     - block: markdown
     id: research
