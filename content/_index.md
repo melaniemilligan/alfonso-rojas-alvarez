@@ -46,8 +46,10 @@ sections:
     id: research
     content:
       title: Research
-      subtitle: Paper 1
-      text: paper summary
+      items:
+        - paper 1
+    design:
+      columns: '2'
     
 
 
