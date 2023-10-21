@@ -48,22 +48,37 @@ sections:
     content:
       title: Publications
       text: |2-
-        ## Pollution and Safety Incidents: A Case Study with Property and Violent Incidents in Medillin, Colombia, 2017-2019 
-
-        Abstract
-        
-
-        ## A comparison of rural-urban differences in out-of-pocket expenses among older Mexicans with diabetes
+        ### Pollution and Safety Incidents: A Case Study with Property and Violent Incidents in Medillin, Colombia, 2017-2019  (Forthcoming, 2023)
 
         Abstract
 
-        ## The Intersection Between Dwelling Environment and Health and Wellbeing in Impoverished Rural Puebla, Mexico
+        ### A comparison of rural-urban differences in out-of-pocket expenses among older Mexicans with diabetes
 
         Abstract
 
-        ## Understanding community health needs and forging an academic global health partnership in Puebla, Mexico: a mixed-methods study
+        ### The Intersection Between Dwelling Environment and Health and Wellbeing in Impoverished Rural Puebla, Mexico
+
+        Abstract
+
+        ### Understanding community health needs and forging an academic global health partnership in Puebla, Mexico: a mixed-methods study
 
         Abstract 
+
+        ### Expansion of Health Care Coverage in Two Federal Countries: Mexico and the United States (Working Paper)
+      
+        ### Are College Students more anxious? A binational study during COVID-19 (Working Paper)
+
+        ### Migration, Earthquake Trauma, Health and Community Social Capital in four low-income communities of Puebla, Mexico (Working Paper)
+
+        ### Mental Health Needs and Access to Health Care: Data from Three Rural Pueblos and One Urban Colinia In Puebla, Mexico (Working Paper)
+
+        ### Acquisition of heroin, cocaine and marijuana among people who use heroin regularly (Working Paper)
+
+        ### Effects of Removing the GRE requirement for graduate admissions at the LBJ School, 2013-2023 (Working Paper)
+
+        ### US-Mexico Elites Study: a binational survey of political perspectives in bordering countries (Working Paper)
+
+
     design: 
       columns: '2'
     
