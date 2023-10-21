@@ -14,15 +14,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Lecturer of Empirical Methods
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of Texas at Austin
+    url: https://www.utexas.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include X, Y and Z.
 
 # Interests to show in About widget
 interests:
@@ -33,15 +33,16 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. in Public Policy
+    - course: M.Sc. in Statistics
+      institution: The University of Texas at Austin
+      year: 2022
+    - course: Master of Pubilic Policy
+      institution: University of California, Berkeley
+      year: 2015
+    - course: Bachelor of Political Science
+      institution: Universidad de Costa Rica
+      year: 2010
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
