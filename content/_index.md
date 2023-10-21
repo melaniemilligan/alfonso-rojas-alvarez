@@ -84,28 +84,28 @@ sections:
 
   - block: markdown
     id: teaching
-    # content:
-    #   title: Teaching
-    #   text: |2-
-    #     ### UT Austin, LBJ School of Public Affairs
-    #     - Instructor, _Introduction to Empircal Methods_ (MPAff Core Course).
-    #     - Instructor, _Quantitative Readiness Program_
-    #     - Team Leader, _Executive Certificate in Data Literacy and Evidence Building_
-    #     - Instructor, _Fundamentals of Statisticsand Algebra for Public Policy_
-    #     - Teaching Assistant, _Applied Economics for Policy Analysis_
-    #     - Teaching Assistant, _Environmental Economics_
-    #     - Co-Instructor, Global Learning Seminar
+    content:
+      title: Teaching
+      text: |2-
+        ### UT Austin, LBJ School of Public Affairs
+        - Instructor, _Introduction to Empircal Methods_ (MPAff Core Course).
+        - Instructor, _Quantitative Readiness Program_
+        - Team Leader, _Executive Certificate in Data Literacy and Evidence Building_
+        - Instructor, _Fundamentals of Statisticsand Algebra for Public Policy_
+        - Teaching Assistant, _Applied Economics for Policy Analysis_
+        - Teaching Assistant, _Environmental Economics_
+        - Co-Instructor, Global Learning Seminar
 
-    #     ### UC Berkeley
-    #     - Graduate School Instructor, _Microeconomic Analysis for Business Decisions_
-    #     - Graduate School Instructor, _People, Power, and Organizations_
+        ### UC Berkeley
+        - Graduate School Instructor, _Microeconomic Analysis for Business Decisions_
+        - Graduate School Instructor, _People, Power, and Organizations_
 
-    #     ### Universidad Internacional de las Americas, School of International Affairs
-    #     - Instructor, _Political Geography_
-    #     - Instructor, _International Economics_
+        ### Universidad Internacional de las Americas, School of International Affairs
+        - Instructor, _Political Geography_
+        - Instructor, _International Economics_
 
-    #     ### Universidad Latina de Costa Rica, School of International Affairs
-    #     - Instructor, _Economic Geography_
+        ### Universidad Latina de Costa Rica, School of International Affairs
+        - Instructor, _Economic Geography_
     design: 
       columns: '2'
     
