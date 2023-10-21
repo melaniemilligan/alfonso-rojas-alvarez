@@ -47,8 +47,10 @@ sections:
     id: research
     content:
       title: Publications
-      text: Pollution and Safety Incidents
-      test test test
+      text: |2-
+        Pollution and Safety Incidents 
+        test
+        test
     design: 
       columns: '2'
     
