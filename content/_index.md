@@ -47,7 +47,9 @@ sections:
     content:
       title: Research
       items:
-        - paper 1
+        - title: Paper 1
+          company: Summary of paper
+        
     design:
       columns: '2'
     
