@@ -35,7 +35,7 @@ education:
     - course: Ph.D. in Public Policy and Statistics, 2022
     - course: M.S. in Statistics
       institution: The University of Texas at Austin
-      year: 2022
+      year: 2020
     - course: M.P.P., Applied Econometrics
       institution: University of California, Berkeley
       year: 2015
