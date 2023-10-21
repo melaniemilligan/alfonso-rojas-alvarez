@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alfonso Rojas-Alvarez, Ph.D.
+title: Alfonso Rojas-Álvarez
 
 # Full name (for SEO)
 first_name: Alfonso
@@ -35,13 +35,13 @@ interests:
 education:
   courses:
     - course: Ph.D. in Public Policy and Statistics
-    - course: M.Sc. in Statistics
+    - course: M.S. in Statistics
       institution: The University of Texas at Austin
       year: 2022
-    - course: Master of Pubilic Policy
+    - course: M.P.P., Applied Econometrics
       institution: University of California, Berkeley
       year: 2015
-    - course: Bachelor of Political Science
+    - course: B.A. of Political Science
       institution: Universidad de Costa Rica
       year: 2010
 
@@ -53,21 +53,21 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/arojasalvarez
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/arojasa
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -78,6 +78,8 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am a lecturer of quantitative methods, statistics, and programming at the LBJ School of Public Affairs at the University of Texas at Austin. My research focuses on the intersection of public health outcomes and environmental factors. I also do data science consulting for the student body of the LBJ School. I have a Ph.D. in Public Policy and Statistics from The University of Texas at Austin and a Master of Public Policy with a focus on Applied Econometrics from the University of California, Berkeley. Since 2013, I have researched public health, environmental health, and data science at research centers at UC Berkeley, Harvard University, and UT Austin.
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Before moving to the United States, I was an adviser to the Minister of the Presidency of Costa Rica and an adviser to the Minister of Tourism. I am also a regular op-ed columnist for Costa Rica's premier newspaper, La Nación, where I write about evidence-based policies and current events. Finally, I work as a data innovation consultant in Costa Rica, the U.S. and Mexico.
+
 {style="text-align: justify;"}
