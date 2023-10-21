@@ -1,8 +1,6 @@
 ---
 # Display name
-title: 
-  - Alfonso 
-  Rojas-Alvarez
+title: Alfonso Jose Rojas-Alvarez
 
 # Full name (for SEO)
 first_name: Alfonso
@@ -30,6 +28,7 @@ bio: My research interests include X, Y and Z.
 interests:
   - Public Health & Equity
   - Environmental Health
+  - Quantitative Method
   - Data Science
 
 # Education to show in About widget
