@@ -79,7 +79,4 @@ social:
 highlight_name: true
 ---
 I am a lecturer of quantitative methods, statistics, and programming at the LBJ School of Public Affairs at the University of Texas at Austin. My research focuses on the intersection of public health outcomes and environmental factors. I also do data science consulting for the student body of the LBJ School. I have a Ph.D. in Public Policy and Statistics from The University of Texas at Austin and a Master of Public Policy with a focus on Applied Econometrics from the University of California, Berkeley. Since 2013, I have researched public health, environmental health, and data science at research centers at UC Berkeley, Harvard University, and UT Austin.
-
-Before moving to the United States, I was an adviser to the Minister of the Presidency of Costa Rica and an adviser to the Minister of Tourism. I am also a regular op-ed columnist for Costa Rica's premier newspaper, La Nación, where I write about evidence-based policies and current events. Finally, I work as a data innovation consultant in Costa Rica, the U.S. and Mexico.
-
 {style="text-align: justify;"}
