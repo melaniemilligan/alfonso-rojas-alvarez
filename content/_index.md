@@ -116,7 +116,7 @@ sections:
       text: |2-
         #### 2023
         - ICAA Conference 2023 - Los Angeles, California
-        - [NASPAA 2023 Annual Conference - Pittsburgh, Pennsylvania](https://lbj.utexas.edu/leading-voices-naspaa-lbj-school-champions-public-service-education-pittsburgh) 
+        - [NASPAA 2023 Annual Conference](https://lbj.utexas.edu/leading-voices-naspaa-lbj-school-champions-public-service-education-pittsburgh) - Pittsburgh, Pennsylvania
 
         #### 2022
         - SLAS International Conference - Bath, United Kingdom
