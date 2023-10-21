@@ -1,6 +1,8 @@
 ---
 # Display name
-title: Alfonso   Rojas-Alvarez
+title: 
+  - Alfonso 
+  Rojas-Alvarez
 
 # Full name (for SEO)
 first_name: Alfonso
