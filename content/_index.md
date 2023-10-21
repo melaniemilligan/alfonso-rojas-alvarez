@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'Alfonso Rojas-Alvarez'
+title: ''
 date: 2022-10-24
 type: landing
 
@@ -42,9 +42,10 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: experience
+  - block: research
+    id: research
     content:
-      title: Experience
+      title: Research
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
