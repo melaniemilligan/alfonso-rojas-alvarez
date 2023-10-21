@@ -46,7 +46,7 @@ sections:
   - block: markdown
     id: research
     content:
-      title: Publications
+      title: Publications & Working Papers
       text: |2-
         ### Pollution and Safety Incidents: A Case Study with Property and Violent Incidents in Medillin, Colombia, 2017-2019  (Forthcoming, 2023)
 
@@ -79,6 +79,39 @@ sections:
         ### US-Mexico Elites Study: a binational survey of political perspectives in bordering countries (Working Paper)
     design: 
       columns: '2'
+
+    - block: markdown
+    id: research
+    content:
+      title: Presentations
+      text: |2-
+        #### 2023
+        - ICAA Conference 2023 - Los Angeles, California
+        - NASPAA 2023 Annual Conference - Pittsburgh, Pennsylvania
+
+        #### 2022
+        - SLAS International Conference - Bath, United Kingdom
+
+        #### 2021
+        - LASA Hybrid Congress - Vancouver, Canada
+
+        #### 2020
+        - SLAS International Conference - Amsterdam, Netherlands
+        - XXXVIII International Confress of LASA - Guadalajara, Mexico
+        - 6th Global Sympossium on Health Systems Research - Dubai, United Arab Emirates
+        - International Affairs Seminar - Universidad Nactional de Costa Rica
+        - Political Affairs Seminar - San Judas University
+
+        #### 2019
+        - ConectaR Data Science Latin American Conference - San Jose, Costa Rica
+        - SPSA Annual Meeting Conference - San Juan, Puerto Rico
+        - Latin American and Caribbean HSG Pre-Conferences on Health Systems Research - Washington, D.C.
+
+        #### 2018
+        - APPAM International Conference - Mexico City, Mexico
+     
+    design: 
+      columns: '2'  
     
 
 
