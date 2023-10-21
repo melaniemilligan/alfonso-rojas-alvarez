@@ -48,7 +48,7 @@ sections:
     content:
       title: Publications
       text: Pollution and Safety Incidents
-      text: A comparison of rural-urban differences
+      test test test
     design: 
       columns: '2'
     
