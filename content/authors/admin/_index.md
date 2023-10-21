@@ -18,8 +18,7 @@ role: Lecturer of Empirical Methods
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: LBJ School of Public Affairs, 
-  The University of Texas at Austin
+  - name: LBJ School of Public Affairs, The University of Texas at Austin
     url: https://lbj.utexas.edu/
 
 # Short bio (displayed in user profile at end of posts)
