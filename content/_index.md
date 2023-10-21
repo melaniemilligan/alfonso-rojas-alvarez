@@ -88,9 +88,10 @@ sections:
       title: Teaching
       text: |2-
         ### UT Austin, LBJ School of Public Affairs
-        - Instructor, _Introduction to Empircal Methods_ (MPAff Core Course) - Spring 2023, Fall 2023
+        - Instructor, _Introduction to Empircal Methods_  - Spring 2023, Fall 2023
+        
         - Instructor, _Quantitative Readiness Program_ - Summer 2023
-        - Team Leader, [_Executive Certificate in Data Literacy and Evidence Building_] (https://wagner.nyu.edu/data-literacy) - Fall 2023
+        - Team Leader, [_Executive Certificate in Data Literacy and Evidence Building_](https://wagner.nyu.edu/data-literacy) - Fall 2023
         - Instructor, _Fundamentals of Statistics and Algebra for Public Policy_ - Fall 2022
         - Teaching Assistant, _Applied Economics for Policy Analysis_ - Fall 2018, Fall 2020
         - Teaching Assistant, _Environmental Economics_ - Spring 2018, Spring 2021
