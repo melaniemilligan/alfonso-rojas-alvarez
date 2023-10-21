@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alfonso Jose Rojas-Alvarez
+title: Alfonso Rojas Alvarez
 
 # Full name (for SEO)
 first_name: Alfonso
