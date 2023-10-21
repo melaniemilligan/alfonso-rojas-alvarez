@@ -46,9 +46,9 @@ sections:
   - block: markdown
     id: research
     content:
-      title: My title
-      subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      title: Publications
+      text: Pollution and Safety Incidents
+      text: A comparison of rural-urban differences
     design: 
       columns: '2'
     
