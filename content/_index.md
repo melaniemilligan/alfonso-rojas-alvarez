@@ -88,38 +88,31 @@ sections:
     id: teaching
     content:
       title: Teaching
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
+      text: |2-
+        ### UT Austin, LBJ School of Public Affairs
+        - Instructor, _Introduction to Empircal Methods_ (MPAff Core Course).
+        - Instructor, _Quantitative Readiness Program_
+        - Team Leader, _Executive Certificate in Data Literacy and Evidence Building_
+        - Instructor, _Fundamentals of Statisticsand Algebra for Public Policy_
+        - Teaching Assistant, _Applied Economics for Policy Analysis_
+        - Teaching Assistant, _Environmental Economics_
+        - Co-Instructor, Global Learning Seminar
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-    design:
+        ### UC Berkeley
+        - Graduate School Instructor, _Microeconomic Analysis for Business Decisions_
+        - Graduate School Instructor, _People, Power, and Organizations_
+
+        ### Universidad Internacional de las Americas, School of International Affairs
+        - Instructor, _Political Geography_
+        - Instructor, _International Economics_
+
+        ### Universidad Latina de Costa Rica, School of International Affairs
+        - Instructor, _Economic Geography_
+
+    design: 
       columns: '2'
+    
+         
 
   - block: accomplishments
     content:
