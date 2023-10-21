@@ -48,10 +48,22 @@ sections:
     content:
       title: Publications
       text: |2-
-        Pollution and Safety Incidents 
+        ## Pollution and Safety Incidents: A Case Study with Property and Violent Incidents in Medillin, Colombia, 2017-2019 
 
-        test
-        test
+        Abstract
+        
+
+        ## A comparison of rural-urban differences in out-of-pocket expenses among older Mexicans with diabetes
+
+        Abstract
+
+        ## The Intersection Between Dwelling Environment and Health and Wellbeing in Impoverished Rural Puebla, Mexico
+
+        Abstract
+
+        ## Understanding community health needs and forging an academic global health partnership in Puebla, Mexico: a mixed-methods study
+
+        Abstract 
     design: 
       columns: '2'
     
