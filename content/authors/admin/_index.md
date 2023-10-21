@@ -26,9 +26,10 @@ bio: My research interests include X, Y and Z.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Environmental Economics
+  - Public Health
+  - Data Science
+  - Data-Driven Policy Analysis
 
 # Education to show in About widget
 education:
