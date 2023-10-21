@@ -88,24 +88,24 @@ sections:
       title: Teaching
       text: |2-
         ### UT Austin, LBJ School of Public Affairs
-        - Instructor, _Introduction to Empircal Methods_ (MPAff Core Course).
-        - Instructor, _Quantitative Readiness Program_
-        - Team Leader, _Executive Certificate in Data Literacy and Evidence Building_
-        - Instructor, _Fundamentals of Statisticsand Algebra for Public Policy_
-        - Teaching Assistant, _Applied Economics for Policy Analysis_
-        - Teaching Assistant, _Environmental Economics_
-        - Co-Instructor, Global Learning Seminar
+        - Instructor, _Introduction to Empircal Methods_ (MPAff Core Course) - Spring 2023, Fall 2023
+        - Instructor, _Quantitative Readiness Program_ - Summer 2023
+        - Team Leader, [_Executive Certificate in Data Literacy and Evidence Building_] (https://wagner.nyu.edu/data-literacy) - Fall 2023
+        - Instructor, _Fundamentals of Statistics and Algebra for Public Policy_ - Fall 2022
+        - Teaching Assistant, _Applied Economics for Policy Analysis_ - Fall 2018, Fall 2020
+        - Teaching Assistant, _Environmental Economics_ - Spring 2018, Spring 2021
+        - Co-Instructor, Global Learning Seminar - Spring 2019, Spring 2021
 
-        ### UC Berkeley
-        - Graduate School Instructor, _Microeconomic Analysis for Business Decisions_
-        - Graduate School Instructor, _People, Power, and Organizations_
+        ### UC Berkeley, Haas School of Business
+        - Graduate School Instructor, _Microeconomic Analysis for Business Decisions_ - Fall 2013, Spring 2014, Fall 2014, Spring 2015
+        - Graduate School Instructor, _People, Power, and Organizations_ - Spring 2015
 
         ### Universidad Internacional de las Americas, School of International Affairs
-        - Instructor, _Political Geography_
-        - Instructor, _International Economics_
+        - Instructor, _Political Geography_ - 2016
+        - Instructor, _International Economics_ - 2012, 2013
 
         ### Universidad Latina de Costa Rica, School of International Affairs
-        - Instructor, _Economic Geography_
+        - Instructor, _Economic Geography_ - 2016
     design: 
       columns: '2'
     
