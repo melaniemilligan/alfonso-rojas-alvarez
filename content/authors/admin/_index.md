@@ -26,7 +26,7 @@ organizations:
 interests:
   - Public Health & Equity
   - Environmental Health
-  - Quantitative Method
+  - Quantitative Methods
   - Data Science
 
 # Education to show in About widget
@@ -71,7 +71,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Alfonso-Rojas-Alvarez-CV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
